@@ -1,4 +1,5 @@
 Hola como estás
 Soy Rubén Triana
-Estudiante de ciencia de Datos
+Estudiante de Ciencia de Datos
 Vivo en Tunja
+Estoy cursando el módulo de Git y GitHub
