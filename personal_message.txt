@@ -1,3 +1,6 @@
 "Dale fuerte Rob tú puedes"
 Experimento 1
 Experimento 2
+Frase 1
+Frase 2
+Frase 3
